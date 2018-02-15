@@ -1,0 +1,9 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/docker-compose.override.yml
+/pkg/
+/spec/reports/
+/tmp/
