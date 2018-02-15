@@ -2,9 +2,8 @@
 
 [![Gem Version](https://badge.fury.io/rb/relaxed_cookiejar.svg)](https://badge.fury.io/rb/relaxed_cookiejar)
 [![Build Status](https://travis-ci.org/andreimaxim/relaxed_cookiejar.svg?branch=master)](https://travis-ci.org/andreimaxim/relaxed_cookiejar)
-[![Maintainability](https://api.codeclimate.com/v1/badges/50e30f3b65985e299e9e/maintainability)](https://codeclimate.com/github/andreimaxim/relaxed_cookiejar/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/50e30f3b65985e299e9e/test_coverage)](https://codeclimate.com/github/andreimaxim/relaxed_cookiejar/test_coverage)
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/01636d74408d3f1fdd7d/maintainability)](https://codeclimate.com/github/andreimaxim/relaxed_cookiejar/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/01636d74408d3f1fdd7d/test_coverage)](https://codeclimate.com/github/andreimaxim/relaxed_cookiejar/test_coverage)
 
 A gem that includes a monkeypatch for the original CookieJar gem.
 
